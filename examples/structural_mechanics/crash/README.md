@@ -756,9 +756,6 @@ model:
 <img width="480" height="206" alt="1769108706907" src="https://github.com/user-attachments/assets/85a5ed85-f835-45d7-a6b6-86ed875163c6" />
 
 
-
-*Results to be updated*
-
 ## TODO
 
 - [ ] **Normalize global features**: Global features (e.g., velocity_x, thickness_scale, rwall_origin_y) are currently passed to the model without normalization. Add support for computing and applying per-feature mean/std (or similar) so global inputs are normalized consistently with node features and positions.
