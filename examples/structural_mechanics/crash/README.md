@@ -726,11 +726,11 @@ training:
 
 # -- Dataset -------------------------------------------------------------------
 num_time_steps: 11
-num_training_samples: 124         # ~92% of 131 runs
+num_training_samples: 124
 num_validation_samples: 7
 
 inference:
-  raw_data_dir_test: ???          # path to curated VTP test split
+  raw_data_dir_test: ???       
 
 # -- Datapipe features ---------------------------------------------------------
 datapipe:
