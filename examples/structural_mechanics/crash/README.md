@@ -747,7 +747,7 @@ datapipe:
 # -- Model ---------------------------------------------------------------------
 model:
   functional_dim: 4               # input coords (x, y, z) + static_features (1)
-  out_dim: 50                    # (num_time_steps - 1) * 5 = 50 * 5
+  out_dim: 50                    # (num_time_steps - 1) * 5 = 10 * 5 = 50
   global_dim: 3                   # must match len(datapipe.global_features)
 ```
 
