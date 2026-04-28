@@ -681,7 +681,7 @@ automatically:
 
 | Platform | Notebook |
 |---|---|
-| Windows (local Jupyter) | [OpenRadioss2PhysicsNEMO_windows.ipynb](https://github.com/HoussemMouradi/OpenRadioss2PhysicsNeMo/tree/main/OpenRadioss2PhysicsNeMo_NotebooksOpenRadioss2PhysicsNeMo_windows.ipynb) |
+| Windows (local Jupyter) | [OpenRadioss2PhysicsNEMO_windows.ipynb](https://github.com/HoussemMouradi/OpenRadioss2PhysicsNeMo/tree/main/OpenRadioss2PhysicsNeMo_Notebooks/OpenRadioss2PhysicsNeMo_windows.ipynb) |
 | Linux (local Jupyter) | [OpenRadioss_PhysicsNEMO_linux.ipynb](https://github.com/HoussemMouradi/OpenRadioss2PhysicsNeMo/tree/main/OpenRadioss2PhysicsNeMo_Notebooks/OpenRadioss2PhysicsNeMo_linux.ipynb) |
 | Google Colab ☁️ | <a href="https://colab.research.google.com/gist/HoussemMouradi/6e88c23e0b272621de0aa46c003c027e/openradioss2physicsnemo_linux.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 
